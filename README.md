@@ -19,7 +19,7 @@ $ omf install fuck
 
 ## Usage
 
-Execute last command as root
+Execute last command as sudo
 
 ```fish
 $ whoami
